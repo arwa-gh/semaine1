@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(179, 153, 153);
+}
+
+h1{
+    color: rgb(221, 112, 112);
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+img{
+    display: block;
+    margin-left: 600px;
+    margin-right: 500px;
+    margin-top: 40px;
+    width:200px;
+    height:150px;
+} 
+    
